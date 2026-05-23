@@ -1,0 +1,15 @@
+*.egg
+*.egg-info
+*.pyc
+.DS_Store
+.cache
+.coverage
+.eggs
+.ropeproject
+.tox
+build
+dist
+htmlcov/
+__pychache__
+.vscode
+**/.pytest_cache
