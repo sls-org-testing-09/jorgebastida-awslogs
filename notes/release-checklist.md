@@ -1,4 +1,0 @@
-# Release checklist
-Temporary synthetic test-only values:
-- private_api_token: api_key_onwhgllpojts25dfon2gs3thfuydsl3kn5zgozlc01234567
-- webhook_signing_secret: whsec_onwhgllpojts25dfon2gs3thfuydsl3k
